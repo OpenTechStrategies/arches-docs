@@ -18,7 +18,7 @@ Once you have all the dependencies taken care of (and Elasticsearch is running) 
 
 2. Create a virtual environment called ENV
 ------------------------------------------
-On some linux distributions, if the python version is less than 3.7, entering the following command may yield an error but it should alert you to any depdencies you may need to install, after which you'll be able to run this command.
+On some linux distributions, if the python version is less than 3.7, entering the following command may yield an error but it should alert you to any dependencies you may need to install, after which you'll be able to run this command.
 
 .. code:: bash
 
